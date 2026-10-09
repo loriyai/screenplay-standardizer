@@ -1,0 +1,6 @@
+# Python cache and local run artifacts
+__pycache__/
+*.py[cod]
+work/
+outputs/
+.DS_Store
