@@ -1,5 +1,7 @@
 # screenplay-standardizer
 
+版本：v0.01
+
 将非标准中文剧本整理为统一格式的剧本 TXT，并从原文建立可追溯的资产台账 JSON 与分类视觉描述 TXT。
 
 ## 内容
